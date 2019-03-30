@@ -1,0 +1,6 @@
+Data Set Information:
+The data set allows for several new combinations of attributes and attribute exclusions, or the modification of the attribute type (categorical, integer, or real) depending on the purpose of the research.
+
+Number of Attributes: 21
+Associated Tasks: Classification, Clustering
+Attribute Characteristics: Integer, Real
